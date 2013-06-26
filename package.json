@@ -1,6 +1,6 @@
 {
   "name": "iota-array",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Generates an array of consecutive integers starting at 0",
   "main": "iota.js",
   "directories": {
