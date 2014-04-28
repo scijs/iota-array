@@ -1,6 +1,6 @@
 {
   "name": "iota-array",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Generates an array of consecutive integers starting at 0",
   "main": "iota.js",
   "directories": {
@@ -8,7 +8,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "tap": "~0.4.1"
+    "tape": "^2.12.3"
   },
   "scripts": {
     "test": "tap test/*.js"

@@ -1,6 +1,6 @@
 var iota = require("../iota.js")
 
-require("tap").test("iota", function(t) {
+require("tape")("iota", function(t) {
 
   function eq(a,b) {
     t.equals(a.join(), b.join())
